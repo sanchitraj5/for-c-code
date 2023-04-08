@@ -13,3 +13,5 @@ int main() {
   printf("Sum of %d and %d is: %d", num1, num2, sum);
   return 0;
 }
+
+Adding New code for even number 
